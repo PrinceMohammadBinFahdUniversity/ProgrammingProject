@@ -14,7 +14,7 @@
             color: #FF0000;
         }
         .auto-style4 {
-            height: 371px;
+            height: 444px;
         }
         .auto-style3 {
             background-color: #EAE8DC;
@@ -29,8 +29,7 @@
     
         &nbsp;&nbsp;&nbsp;&nbsp;<h1 class="auto-style3">ADD URL</h1>
         <br />
-&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Label ID="Label4" runat="server" Text="Course Name"></asp:Label>
+
 &nbsp;&nbsp;
         <asp:DropDownList ID="Major" runat="server">
             <asp:ListItem Selected="True">Select Your Major ...</asp:ListItem>
