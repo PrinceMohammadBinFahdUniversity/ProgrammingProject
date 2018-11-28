@@ -7,7 +7,7 @@
     <title></title>
     <style type="text/css">
         .auto-style1 {
-            height: 544px;
+            height: 500px;
             background-color: #EAE8DC;
             text-align: center;
         }
